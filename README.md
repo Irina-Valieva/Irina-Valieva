@@ -1,24 +1,47 @@
-Привет, Меня зовут Ирина Валиева, я начинающий тестировщик. 
-В этом репозитории ты можешь посмотреть некоторые мои проекты, которые я выполняла во время прохождения курса тестировщика.
-Jira, qase.io, SQL,  Postman, Fiddler, Swagger, Trello,
-SoapUI,  Charles, Git. Chrome DevTools_
-Проект 1: тест веб-приложений для учителей Skyeng
-Что нужно было сделать:
-сделать тест-план
-подготовлена ​​тестовая документация
-проведение тестирования
-написать отчет об окончании
-как я решала:
-https://skyqa-bug-report.atlassian.net/wiki/spaces/~63cd705eed33fd0707b7f914/pages/589825?atlOrigin=eyJpIjoiMzlmMGRlNjVjNjIxNDM1MGIyNGQ4YThhYjk0Yjk4NGQiLCJwIjoiYyJ9
+# Портфолио: инженер по тестированию
 
-![image](https://github.com/Irina-Valieva/Irina-Valieva/assets/142157620/f6baa5dc-a2c2-4b64-acf6-c84a8b998398)
-![image](https://github.com/Irina-Valieva/Irina-Valieva/assets/142157620/5a5558cf-3d42-4f73-9691-6ff8835c23fb)
+## Обо мне 
+
+Привет! Меня зовут Ирина Валиева, я начинающий тестировщик. <br>
+В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
+<br>
+
+## Навыки и технологии
+``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
+``SoapUI``, ``Android Studio``, ``xCode``, ``Charles``, ``Git``, ``Chrome DevTools``.
 
 
 
-email: irenaparadise1977@gmail.com
 
-!---
-Irina-Valieva/Irina-Valieva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+## Проекты
+
+<p> Проект : тест веб-приложения и приложения для учителей от Skyeng</p>
+
+<p>Что нужно было сделать:<p>
+  
+<ol>
+  <li>сделать тест-план </li>
+  <li>подготовить тестовую документацию</li>
+  <li>провести тестирование</li>
+  <li>написать отчет о результатах тестирования</li>
+</ol>
+
+<p>Как решала(-а): краткое описание решения (автореферат)<p>
+
+> https://skyqa-bug-report.atlassian.net/l/cp/H20agQp7
+> <p> логин: irenaparadise@gmail.com </p>
+> <p> пароль: 033110017798 </p>
+
+<p>Выводы (итоги):<p>
+<ol>
+  <li>Итог №1</li>
+  <li>Итог №2</li>
+</ol>
+<br> 
+
+<br> 
+
+## Контактная информация
+- Email: irenaparadise@yandex.ru
+-
 --->
